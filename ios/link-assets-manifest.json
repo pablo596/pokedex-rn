@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Changa-Bold.ttf",
+      "sha1": "95e028e80cf256fada9eb12e28956ed3a13eca2c"
+    },
+    {
+      "path": "assets/fonts/Changa-ExtraBold.ttf",
+      "sha1": "8d83ad50a591d4d9a1efe2913735d843e41f33c0"
+    },
+    {
+      "path": "assets/fonts/Changa-ExtraLight.ttf",
+      "sha1": "6d84f5f86e4390f9f41c23020f01409ff60796d3"
+    },
+    {
+      "path": "assets/fonts/Changa-Light.ttf",
+      "sha1": "070ce40c20f3d325ad14f0d26b9858d54b373409"
+    },
+    {
+      "path": "assets/fonts/Changa-Medium.ttf",
+      "sha1": "a091bb5c35ccbb53a5d3f6e857994a719b014aa7"
+    },
+    {
+      "path": "assets/fonts/Changa-Regular.ttf",
+      "sha1": "b0573fc2ed11d87834c4cc09065912239a8ee669"
+    },
+    {
+      "path": "assets/fonts/Changa-SemiBold.ttf",
+      "sha1": "8a55a75a537a12df0b10cf6a6b0b1083a40f6f00"
+    },
+    {
+      "path": "assets/fonts/PokemonH.ttf",
+      "sha1": "0d9951d3380b31319e2de9546dfd96a399b56f71"
+    },
+    {
+      "path": "assets/fonts/PokemonS.ttf",
+      "sha1": "604b78675e244487f0efd80662ac5b899353b80e"
+    },
+    {
+      "path": "assets/fonts/Pokemon_Classic.ttf",
+      "sha1": "7d15f708ed560378032f0311847ef7580adaa4b3"
+    }
+  ]
+}
