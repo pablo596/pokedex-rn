@@ -9,9 +9,9 @@ Si no es así, sigue la guía oficial de React Native "Comenzar" en el siguiente
 
 - [React Native: Get Started](https://reactnative.dev/docs/environment-setup)
 
-## How to use
+## Como usar
 
-**Step 1:**
+**Paso 1:**
 
 Descargue o clone este repositorio usando el siguiente enlace:
 
@@ -19,7 +19,7 @@ Descargue o clone este repositorio usando el siguiente enlace:
 https://github.com/pablo596/pokedex-rn.git
 ```
 
-**Step 2:**
+**Paso 2:**
 
 Vaya a la raíz del proyecto y ejecute el siguiente comando en la consola para obtener las dependencias requeridas:
 
@@ -37,7 +37,7 @@ yarn
 npm install
 ```
 
-**Step 3:**
+**Paso 3:**
 
 En la consola, vaya a la raíz del proyecto y ejecute el siguiente comando para ejecutar la aplicación en el dispositivo android conectado.
 
